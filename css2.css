@@ -19,9 +19,10 @@ body{
 
 
 .contenedor{
-	width: 90%;
-	max-width: 1200px;
-	margin: auto;
+	width: 100%;
+	max-width: 1400px;
+	margin-left: auto;
+	margin-left: auto;
 	text-align: center;
 }
 
@@ -374,7 +375,6 @@ line-height: 180px;
 }
 
 }
-
 
 
 
