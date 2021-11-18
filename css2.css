@@ -64,9 +64,10 @@ grid-gap: 5px;
 }
 
 .contenedor2{
-	width: 90%;
-	max-width: 1200px;
-	margin: auto;
+	width: 100%;
+	max-width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 }
 .contenedor2 .header{
@@ -275,7 +276,7 @@ font-size: 35px;
 font-family: 'Bubblegum Sans', cursive;
 text-decoration: none;
 float: right;
-padding-top: 6%;
+padding-top: 5%;
 margin-left: auto;
 padding-left: 6%;
 color: #ffffff;}
